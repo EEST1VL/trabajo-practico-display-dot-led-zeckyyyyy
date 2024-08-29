@@ -4,7 +4,7 @@ int main(void){
   while (1)
   
   {
-  asm(nop);  /* code */
+  asm("nop");  /* code */
   }
   
 }
